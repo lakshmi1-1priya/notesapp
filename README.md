@@ -24,4 +24,4 @@ Users can add, view, and delete notes with a clean UI.
 
 ---
 
-## 📁 Project Structure
+
