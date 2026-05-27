@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.note-card {
+    transition: transform 0.2s ease;
+}
+
+.note-card:hover {
+    transform: scale(1.03);
+}
+
+.card {
+    border-radius: 15px;
+}
+
+button {
+    border-radius: 10px;
+}
